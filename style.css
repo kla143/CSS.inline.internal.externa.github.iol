@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 252, 248);
+}
+h1{
+    border-style:dotted;
+    text-align: center; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 4cap;
+    color: #ffffff; 
+
+    background-color: rgb(172, 123, 64);
+    
+}
